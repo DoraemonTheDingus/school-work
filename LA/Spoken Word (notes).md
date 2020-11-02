@@ -1,5 +1,5 @@
 Topic: Homebrew (and hacking in general)
-Purpose: Don't judge a book by it's cover.
+Purpose: Don't think that one popular sub group is the only group that you need to know.
 
 Brainstorm:
 -It's not illegal
